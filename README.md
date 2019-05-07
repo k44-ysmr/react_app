@@ -1,8 +1,7 @@
 # ReadMe
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Description
-react_app is sample memo app
+## Description
+Reactで作成したポートフォリオ用のメモアプリです。
 
 # Features
 - 非同期通信でのメモアプリ
